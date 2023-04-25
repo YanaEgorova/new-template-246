@@ -1,0 +1,23 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #f3f3f3;
+  --second-brand-color: #fa6906;
+  --third-brand-color: #00aff0;
+  /* --fourth-brand-color: #53b272; */
+
+
+  --main-font:  'Public Sans';
+  --title-font:  'Public Sans Light';
+  --main-title-font: 'Sigmar';
+
+  font-size: 62.5%;
+}
