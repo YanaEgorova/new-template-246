@@ -80,63 +80,72 @@
 
     
     <footer class="footer">
-      <div class="footer__wrapper">
-        <div class="container">
-          <div class="footer__block">
-            <p class="footer__title">Pages</p>
-            <ul class="sub-list">
-              <li class="item">
-                <a href="./contacts.html" class="text footer__link">Contact Us</a>
-              </li>
-              <li class="item">
-                <a href="./use.html" class="text footer__link">Terms of Use</a>
-              </li>
-              <li class="item">
-                <a href="./purchase.html" class="text footer__link">Terms of Purchase</a>
-              </li>
-           
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="footer__wrapper footer__wrapper-color">
-        <div class="container">
-          <div class="footer__block">
-            <ul class="sub-list">
-              <li class="item">
-                <a href="./index.html" class="footer__logo logo js_website-name"></a>
-              </li>
-              <li class="item">
-                <p class="text js_website-corp"></p>
-              </li>
-              <li class="item">
-                <span class="footer__span">© All rights reserved</span>
-              </li>
-            </ul>
-          </div>
         
-        </div>
-      </div>
-      <div class="footer__wrapper">
-        <div class="container">
-          <div class="footer__block">
-            <p class="footer__title">Policies</p>
-            <ul class="sub-list">
-              <li class="item">
-                <a href="./privacy.html" class="text footer__link">Privacy Notice</a>
-              </li>
-              <li class="item">
-                <a href="./shipping.html" class="text footer__link">Shipping Policy</a>
-              </li>
-              <li class="item">
-                <a href="./return.html" class="text footer__link">Return Policy</a>
-              </li>
-           
-            </ul>
+        <div class="footer__wrapper">
+  
+          <div class="container">
+              
+            <div class="footer__block">
+              <p class="footer__title">Pages</p>
+              <ul class="sub-list">
+                <li class="item">
+                  <a href="./contacts.html" class="text footer__link">Contact Us</a>
+                </li>
+                <li class="item">
+                  <a href="./use.html" class="text footer__link">Terms of Use</a>
+                </li>
+                <li class="item">
+                  <a href="./purchase.html" class="text footer__link">Terms of Purchase</a>
+                </li>
+                <li class="item">
+                  <a href="./ingredients.html" class="text footer__link">Ingredients</a>
+                </li>
+             
+              </ul>
+            </div>
           </div>
         </div>
-      </div>
-      </footer>
+        <div class="footer__wrapper footer__wrapper-color">
+          <div class="container">
+            <div class="footer__block">
+              <ul class="sub-list">
+                <li class="item">
+                  <a href="./index.html" class="footer__logo logo js_website-name"></a>
+                </li>
+                <li class="item">
+                  <p class="text js_website-corp"></p>
+                </li>
+                <li class="item">
+                  <span class="footer__span">© All rights reserved</span>
+                </li>
+              </ul>
+            </div>
+          
+          </div>
+        </div>
+        <div class="footer__wrapper">
+          <div class="container">
+            <div class="footer__block">
+              <p class="footer__title">Policies</p>
+              <ul class="sub-list">
+                <li class="item">
+                  <a href="./privacy.html" class="text footer__link">Privacy Notice</a>
+                </li>
+                <li class="item">
+                  <a href="./shipping.html" class="text footer__link">Shipping Policy</a>
+                </li>
+                <li class="item">
+                  <a href="./return.html" class="text footer__link">Return Policy</a>
+                </li>
+              
+              </ul>
+            </div>
+          </div>
+        </div>
+        </footer>
+        <div class="container">
+          <p style="padding-top: 16px; font-size: 12px; margin-bottom: 1rem;">*Any statements on this site or any materials or supplements distributed or sold by <span class="js_website-name"></span> has not been evaluated by the Food and Drug Administration (FDA). This product is not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a history of heart conditions we suggest consulting with a physician before using any of our products. The results on all products are not typical and not everyone will experience these results.</p>
+       </div>
   </div>
 
   <script type='text/javascript' src='https://thebestproductmanager.com/products/prices-nxg-object'></script>
