@@ -1,7 +1,6 @@
 .footer__title {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   font-size: 1.8rem;
-  font-family: var(--title-font);
   text-transform: uppercase;
 }
 .footer__link {
@@ -10,7 +9,7 @@
 .footer__link::after {
   display: block;
   content: '';
-  bottom: -.1rem;
+  bottom: -0.1rem;
   left: 0;
   position: absolute;
   height: 0.1rem;
@@ -19,16 +18,13 @@
   transition: all 0.3s ease-in-out;
 }
 .footer .item:not(:last-child) {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 .footer__block {
   padding: 2rem 0;
 }
 .footer__wrapper-color {
   background-color: var(--first-brand-color);
-}
-.footer__span {
-  font-size: 1.4rem;
 }
 .footer__icon {
   display: block;
@@ -38,7 +34,6 @@
 }
 
 @media screen and (min-width: 1024px) {
-
   .footer__link:hover::after {
     width: 100%;
   }
@@ -57,5 +52,4 @@
     justify-content: center;
     order: -1;
   }
-  
 }
